@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zain</h1>
-<h3 align="center">A passionate Web-Developer developer from India</h3>
+<h3 align="center">Front-end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucifer-zain&label=Profile%20views&color=0e75b6&style=flat" alt="lucifer-zain" /> </p>
 
